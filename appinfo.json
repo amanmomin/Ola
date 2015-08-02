@@ -1,0 +1,64 @@
+{
+    "appKeys": {
+        "MESSAGE_TYPE": 200,
+        "language": 201,
+        "p_1": 0,
+        "p_10": 9,
+        "p_11": 10,
+        "p_12": 11,
+        "p_13": 12,
+        "p_14": 13,
+        "p_15": 14,
+        "p_2": 1,
+        "p_3": 2,
+        "p_4": 3,
+        "p_5": 4,
+        "p_6": 5,
+        "p_7": 6,
+        "p_8": 7,
+        "p_9": 8,
+        "phrase": 202,
+        "translation": 100
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Aman and Friends",
+    "longName": "Ola!",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon_big_watch.png",
+                "name": "IMAGE_MENU_ICON_BIG_WATCH",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_icon_sector_watch.png",
+                "name": "IMAGE_MENU_ICON_SECTOR_WATCH",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_icon_binary_watch.png",
+                "name": "IMAGE_MENU_ICON_BINARY_WATCH",
+                "type": "png"
+            },
+            {
+                "file": "images/brains_watch_background.png",
+                "name": "IMAGE_BACKGROUND_BRAINS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Ola!",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "1d6c7f01-d948-42a6-aa4e-b2084210ebbc",
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
